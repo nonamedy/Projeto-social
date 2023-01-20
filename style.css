@@ -68,3 +68,7 @@ section#redes img:hover{
     transform: translate(-3px, -3px);
     transition: transform .0px;
 }
+
+section#redes img:active{
+    transform: scale(95%);
+}
